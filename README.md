@@ -11,3 +11,10 @@ Di bidang **Back-End dan Cloud Computing**, saya memiliki sertifikat dari Dicodi
 Di bidang **Android**, saya memiliki sertifikat dari Dicoding Academy pada beberapa kelas yaitu [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80/certificates/781787), [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169/certificates/781787), dan [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51/certificates/781787).\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/prambima/)ku ya.
+
+<p align="left">
+<a href="https://github.com/pram-bima">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pram-bima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pram-bima&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
